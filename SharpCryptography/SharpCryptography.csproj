@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>LambdaTheDev.SharpCryptography</RootNamespace>
+        <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Title>SharpCryptography</Title>
+        <Authors>LambdaTheDev</Authors>
+        <Description>Library that allows you to do non-alloc/reusable hashing &amp; encrypting operations in C#.</Description>
+        <Copyright>LambdaTheDev</Copyright>
+        <PackageProjectUrl>https://github.com/LambdaTheDev/SharpCryptography</PackageProjectUrl>
+        <PackageLicenseUrl>MIT</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/LambdaTheDev/SharpCryptography</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>security, encryption, hashing, non, alloc, reusable</PackageTags>
+    </PropertyGroup>
+
+</Project>
