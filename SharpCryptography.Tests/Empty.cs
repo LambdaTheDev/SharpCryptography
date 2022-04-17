@@ -1,4 +1,4 @@
-namespace SharpCryptography.Tests
+namespace LambdaTheDev.SharpCryptography.Tests
 {
     public class Empty
     {
