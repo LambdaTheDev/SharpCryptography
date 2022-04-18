@@ -24,6 +24,8 @@ namespace LambdaTheDev.SharpCryptography.Aes
             return new ArraySegment<byte>(Decrypt(input, key, _aes.IV));
         }
         
+        // Code from:
+        // https://stackoverflow.com/questions/53653510/c-sharp-aes-encryption-byte-array
         public byte[] Encrypt(ArraySegment<byte> data, byte[] key, byte[] iv)
         {
             _aes.KeySize = 128;
