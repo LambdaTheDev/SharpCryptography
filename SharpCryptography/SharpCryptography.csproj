@@ -12,7 +12,7 @@
         <PackageLicenseUrl>MIT</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/LambdaTheDev/SharpCryptography</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageTags>security, encryption, hashing, non, alloc, reusable</PackageTags>
+        <PackageTags>encryption, hashing, non, alloc, reusable</PackageTags>
     </PropertyGroup>
 
 </Project>
